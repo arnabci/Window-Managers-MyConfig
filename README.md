@@ -8,6 +8,6 @@ But I like to fly high speed low drag lmao.
 
 # Hyprland
 Config files in Hyprland are a little complicated. 
-It is a bastardized version of,
+It is a modified version of,
 <url>https://github.com/prasanthrangan/hyprdots</url>
 Download this and replace my github files in /home/username/.config/hypr/ and /home/username/.config/waybar/
