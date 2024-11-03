@@ -11,3 +11,7 @@ Config files in Hyprland are a little complicated.
 It is a modified version of,
 <url>https://github.com/prasanthrangan/hyprdots</url>
 Download this and replace my github files in /home/username/.config/hypr/ and /home/username/.config/waybar/
+
+# Fin things you need to do to make this work
+
+xrandr --output "DVI-D-0" --primary (Wayland equivalent for creating a primary display. This helps games like dota not take weird resolutions when running.)
