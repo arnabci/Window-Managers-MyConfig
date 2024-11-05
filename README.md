@@ -14,4 +14,4 @@ Download this and replace my github files in /home/username/.config/hypr/ and /h
 
 # Fin things you need to do to make this work
 
-xrandr --output "DVI-D-0" --primary (Wayland equivalent for creating a primary display. This helps games like dota not take weird resolutions when running.)
+xrandr --output "DP-1" --primary (Wayland equivalent for creating a primary display. This helps games like dota not take weird resolutions when running.)
