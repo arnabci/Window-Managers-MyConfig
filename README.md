@@ -5,6 +5,7 @@ My personal configs for all Window Managers I used.
 Config file is a copy of /etc/sway/config.
 You can also paste it in the /home/username/.config/sway/config and it should work. 
 But I like to fly high speed low drag lmao.
+Put the catppuccin-mocha.ini into ~/.config/foot/
 
 # Hyprland
 Config files in Hyprland are a little complicated. 
