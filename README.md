@@ -10,7 +10,7 @@ Put the catppuccin-mocha.ini into ~/.config/foot/
 # Hyprland
 Config files in Hyprland are a little complicated. 
 It is a modified version of,
-<url>https://github.com/HyDE-Project/HyDE</url>
+<url>https://github.com/HyDE-Project/HyDE</url>.
 Download this and replace my github files in /home/username/.config/hypr/ and /home/username/.config/waybar/
 
 # Fin things you need to do to make this work
