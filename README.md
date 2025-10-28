@@ -23,3 +23,8 @@ This helps games like dota not take weird resolutions when running.)
 
 eval (ssh-agent -c)  
 ssh-add ~/.ssh/bucket
+
+# Office setup
+
+#monitor = DP-4, 1920x1080@60, 0x0, 1  
+#monitor = DP-3, 1920x1080@60, 1920x0, 1
