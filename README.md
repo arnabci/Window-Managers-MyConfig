@@ -18,3 +18,8 @@ Download the respective folders from my github files into /home/username/.config
 
 xrandr --output "DP-1" --primary (Wayland equivalent for creating a primary display.  
 This helps games like dota not take weird resolutions when running.)
+
+# Make SSH keys work on Kitty
+
+eval (ssh-agent -c)  
+ssh-add ~/.ssh/bucket
